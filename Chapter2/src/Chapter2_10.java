@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class chapter2_10 {
+public class Chapter2_10 {
     public static void main(String[] args) {
 
         String amount_str = JOptionPane.showInputDialog(null, "Please enter an amount in integer, for example 1156", "ComputeChange", JOptionPane.QUESTION_MESSAGE);

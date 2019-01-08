@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class chapter2_4 {
+public class Chapter2_4 {
     public static void main(String[] args) {
         System.out.println("Please enter a integer between 0 and 1000: ");
         Scanner scanner = new Scanner(System.in);

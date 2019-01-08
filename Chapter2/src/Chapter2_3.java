@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 import java.text.DecimalFormat;
 
-public class chapter2_3 {
+public class Chapter2_3 {
     public static void main(String[] args) {
         String money_str = JOptionPane.showInputDialog(null, "Please input the money: " , "Money Summary", JOptionPane.QUESTION_MESSAGE);
         String gratitude_str = JOptionPane.showInputDialog(null, "Please input the gratitude rate(%): " , "Money Summary", JOptionPane.QUESTION_MESSAGE);

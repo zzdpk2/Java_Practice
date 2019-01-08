@@ -1,6 +1,6 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
-public class chapter2_2 {
+public class Chapter2_2 {
     public static void main(String[] args) {
         System.out.print("Enter the radius of a cylinder: ");
         Scanner scanner = new Scanner(System.in);

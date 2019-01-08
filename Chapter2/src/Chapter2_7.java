@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class chapter2_7 {
+public class Chapter2_7 {
     public static void main(String[] args) {
         System.out.println("Enter the number of minutes: ");
         Scanner scanner = new Scanner(System.in);

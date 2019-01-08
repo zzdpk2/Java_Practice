@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class chapter2_9 {
+public class Chapter2_9 {
     public static void main(String[] args) {
         System.out.println("Please enter the number: ");
         Scanner input = new Scanner(System.in);

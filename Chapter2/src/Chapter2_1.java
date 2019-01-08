@@ -1,5 +1,5 @@
 import javax.swing.JOptionPane;
-public class chapter2_1 {
+public class Chapter2_1 {
     public static void main(String[] args) {
         String celsius_str = JOptionPane.showInputDialog(null, "Enter a degree in Celsius", "Celsius convert to Fahrenheit", JOptionPane.QUESTION_MESSAGE);
         double celsius = Double.parseDouble(celsius_str);
