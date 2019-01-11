@@ -60,8 +60,11 @@ public class Chapter2_11 {
 
     public void inputValueViaGUI(){
         // Input value
-        JOptionPane.showInputDialog(null, "", "", JOptionPane.QUESTION_MESSAGE);
-
+        setName(JOptionPane.showInputDialog(null, "Name", "Input", JOptionPane.QUESTION_MESSAGE));
+        setNumberOfHoursPerWeek(Integer.parseInt(JOptionPane.showInputDialog(null, "Number of Hours Per Week", "Input", JOptionPane.QUESTION_MESSAGE)));
+        setHourlyPayRate(Double.parseDouble(JOptionPane.showInputDialog(null, "Hourly Pay Rate", "Input", JOptionPane.QUESTION_MESSAGE)));
+        setFederalTax(Double.parseDouble(JOptionPane.showInputDialog(null, "Federal Tax Rate", "Input", JOptionPane.QUESTION_MESSAGE)));
+        setStateTax(Double.parseDouble(JOptionPane.showInputDialog(null, "State Tax Rate", "Input", JOptionPane.QUESTION_MESSAGE)));
     }
 
     public void computeChangeViaTerminal(){

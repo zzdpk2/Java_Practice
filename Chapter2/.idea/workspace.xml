@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ced1d194-3590-457d-9dee-f1f424ea7a85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter2_25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/chapter2_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/chapter2_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/Chapter2_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/Chapter2_11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter2_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter2_11.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chapter2_11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-717">
-              <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+            <state relative-caret-position="2530">
+              <caret line="112" selection-start-line="112" selection-end-line="112" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter2_15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter2_12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter2_25.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,14 +85,17 @@
         <option value="$PROJECT_DIR$/src/chapter2_10.java" />
         <option value="$PROJECT_DIR$/src/chapter2_11.java" />
         <option value="$PROJECT_DIR$/src/Chapter2_11.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2_15.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2_12.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2_25.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1938" />
-    <option name="height" value="1098" />
+    <option name="x" value="376" />
+    <option name="y" value="165" />
+    <option name="width" value="1103" />
+    <option name="height" value="589" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -85,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,22 +112,18 @@
               <item name="Chapter2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Chapter2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546855392196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547122516153" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -130,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Chapter2_11">
+  <component name="RunManager" selected="Application.Chapter2_25">
     <configuration name="Chapter2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter2_10" />
       <module name="Chapter2" />
@@ -145,22 +160,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter2_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2_7" />
+    <configuration name="Chapter2_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2_12" />
       <module name="Chapter2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter2_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2_8" />
+    <configuration name="Chapter2_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2_15" />
       <module name="Chapter2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter2_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter2_9" />
+    <configuration name="Chapter2_25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter2_25" />
       <module name="Chapter2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chapter2_25" />
+        <item itemvalue="Application.Chapter2_12" />
+        <item itemvalue="Application.Chapter2_15" />
         <item itemvalue="Application.Chapter2_11" />
         <item itemvalue="Application.Chapter2_10" />
-        <item itemvalue="Application.Chapter2_9" />
-        <item itemvalue="Application.Chapter2_8" />
-        <item itemvalue="Application.Chapter2_7" />
       </list>
     </recent_temporary>
   </component>
@@ -189,16 +204,20 @@
       <workItem from="1546778893402" duration="1191000" />
       <workItem from="1546840029682" duration="10417000" />
       <workItem from="1546854252202" duration="1142000" />
+      <workItem from="1546943279361" duration="853000" />
+      <workItem from="1547098074870" duration="1809000" />
+      <workItem from="1547105682205" duration="7876000" />
+      <workItem from="1547194253228" duration="1332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12750000" />
+    <option name="totallyTimeSpent" value="24620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13203754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13873994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -241,13 +260,7 @@
     <entry file="file://$PROJECT_DIR$/Chapter2.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.414.1886/HZ$D.414.1887/exercise/Exercise2_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="36" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.414.1886/HZ$D.414.1887/exercise/Exercise2_9.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter2_10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
@@ -317,10 +330,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="769" selection-start-line="769" selection-end-line="769" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.625.1058/HZ$D.625.1059/exercise/Exercise2_12b.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.625.1058/HZ$D.625.1060/exercise/Exercise2_12a.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/HZ$D.625.1058/HZ$D.625.1061/exercise/Exercise2_25.java" />
     <entry file="file://$PROJECT_DIR$/src/Chapter2_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-717">
-          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        <state relative-caret-position="2530">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
