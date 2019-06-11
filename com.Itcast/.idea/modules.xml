@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArrayListRandom/ArrayListRandom.iml" filepath="$PROJECT_DIR$/ArrayListRandom/ArrayListRandom.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayListReturn/ArrayListReturn.iml" filepath="$PROJECT_DIR$/ArrayListReturn/ArrayListReturn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysTools/ArraysTools.iml" filepath="$PROJECT_DIR$/ArraysTools/ArraysTools.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintObjectArrayList/PrintObjectArrayList.iml" filepath="$PROJECT_DIR$/PrintObjectArrayList/PrintObjectArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticChunk/StaticChunk.iml" filepath="$PROJECT_DIR$/StaticChunk/StaticChunk.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.iml" filepath="$PROJECT_DIR$/com.Itcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" filepath="$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" />
     </modules>
