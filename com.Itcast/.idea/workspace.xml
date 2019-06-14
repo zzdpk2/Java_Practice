@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AbstractPractice/AbstractPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractPractice/src/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractPractice/src/WakeUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AbstractPractice/src/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusAllocation/BonusAllocation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusAllocation/src/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusAllocation/src/BonusAllocationPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusAllocation/src/GroupMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BonusAllocation/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BonusAllocation/src/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/BonusAllocation/src/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BonusAllocation/src/GroupMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/BonusAllocation/src/GroupMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,12 +47,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BonusAllocation/src/Admin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="-45">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
+                <element signature="e#134#135#0" expanded="true" />
                 <element signature="e#168#169#0" expanded="true" />
               </folding>
             </state>
@@ -69,8 +63,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BonusAllocation/src/GroupMember.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            <state relative-caret-position="406">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,6 +126,8 @@
         <option value="$PROJECT_DIR$/AbstractPractice/src/WakeUp.java" />
         <option value="$PROJECT_DIR$/BonusAllocation/src/User.java" />
         <option value="$PROJECT_DIR$/BonusAllocation/src/Admin.java" />
+        <option value="$PROJECT_DIR$/BonusAllocation/src/GroupMember.java" />
+        <option value="$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java" />
       </list>
     </option>
   </component>
@@ -179,14 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WakeUp">
-    <configuration name="ArrayListPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListPractice" />
-      <module name="com.Itcast" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainRedPacket">
     <configuration name="ArrayListReturnDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListReturnDemo" />
       <module name="ArrayListReturn" />
@@ -197,6 +203,13 @@
     <configuration name="Demo01ArrayListRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo01ArrayListRandom" />
       <module name="ArrayListRandom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRedPacket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainRedPacket" />
+      <module name="BonusAllocation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -217,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainRedPacket" />
         <item itemvalue="Application.WakeUp" />
         <item itemvalue="Application.ArrayListReturnDemo" />
         <item itemvalue="Application.PrintObjectArrayListDemo" />
         <item itemvalue="Application.Demo01ArrayListRandom" />
-        <item itemvalue="Application.ArrayListPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +253,12 @@
       <workItem from="1560165578499" duration="7755000" />
       <workItem from="1560251384939" duration="1127000" />
       <workItem from="1560412924583" duration="3383000" />
-      <workItem from="1560496481612" duration="300000" />
+      <workItem from="1560496481612" duration="1466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17124000" />
+    <option name="totallyTimeSpent" value="18290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,13 +397,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BonusAllocation/src/GroupMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com.itcast.practice.arraylist/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -417,10 +423,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BonusAllocation/src/Admin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="-45">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
+            <element signature="e#134#135#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BonusAllocation/src/GroupMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
