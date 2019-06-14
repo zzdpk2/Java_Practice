@@ -9,11 +9,6 @@ public class Admin extends User{
         super(name, money);
     }
 
-    @Override
-    public void show() {
-
-    }
-
     public ArrayList<Double> send(double money, int count) {
         ArrayList<Double> redList = new ArrayList<>();
 
@@ -23,6 +18,7 @@ public class Admin extends User{
             return null;
         }
 
+//        System.out.println(this);
         super.setMoney(leftMoney - money);
 
         for (int i = 0; i < count; i++)
