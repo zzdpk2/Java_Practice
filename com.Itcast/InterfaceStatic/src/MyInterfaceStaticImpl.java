@@ -1,5 +1,4 @@
-public class MyInterfaceStaticImpl {
-    public static void main(String[] args) {
-
+public class MyInterfaceStaticImpl implements MyStaticInterface{
+    public void methodAnother(){
     }
 }

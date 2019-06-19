@@ -10,6 +10,9 @@
       <module fileurl="file://$PROJECT_DIR$/InterfaceAbstract/InterfaceAbstract.iml" filepath="$PROJECT_DIR$/InterfaceAbstract/InterfaceAbstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/InterfaceDefault.iml" filepath="$PROJECT_DIR$/untitled/InterfaceDefault.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceStatic/InterfaceStatic.iml" filepath="$PROJECT_DIR$/InterfaceStatic/InterfaceStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInterfaceConst/MyInterfaceConst.iml" filepath="$PROJECT_DIR$/MyInterfaceConst/MyInterfaceConst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInterfacePrivateA/MyInterfacePrivateA.iml" filepath="$PROJECT_DIR$/MyInterfacePrivateA/MyInterfacePrivateA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyInterfacePrivateB/MyInterfacePrivateB.iml" filepath="$PROJECT_DIR$/MyInterfacePrivateB/MyInterfacePrivateB.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintObjectArrayList/PrintObjectArrayList.iml" filepath="$PROJECT_DIR$/PrintObjectArrayList/PrintObjectArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticChunk/StaticChunk.iml" filepath="$PROJECT_DIR$/StaticChunk/StaticChunk.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.iml" filepath="$PROJECT_DIR$/com.Itcast.iml" />

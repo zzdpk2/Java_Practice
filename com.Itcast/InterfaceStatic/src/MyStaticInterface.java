@@ -3,3 +3,4 @@ public interface MyStaticInterface {
         System.out.println("This is a static method!");
     }
 }
+
