@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConstMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismA/PolymorphismA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismA/src/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismA/src/PolyField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolymorphismA/src/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismA/src/PolyMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismB/PolymorphismB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismB/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismB/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolymorphismB/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismA/src/Fu.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismA/src/Fu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismA/src/PolyField.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismA/src/PolyField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolymorphismA/src/Zi.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolymorphismA/src/Zi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,54 +26,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConst.java">
+        <entry file="file://$PROJECT_DIR$/PolymorphismB/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConstMain.java">
+        <entry file="file://$PROJECT_DIR$/PolymorphismB/src/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+            <state relative-caret-position="87">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
               <folding>
-                <element signature="e#79#80#0" expanded="true" />
-                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PolymorphismA/src/Zi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PolymorphismA/src/PolyField.java">
+        <entry file="file://$PROJECT_DIR$/PolymorphismB/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PolymorphismA/src/Fu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding>
-                <element signature="e#62#63#0" expanded="true" />
-                <element signature="e#98#99#0" expanded="true" />
-              </folding>
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -127,9 +107,13 @@
         <option value="$PROJECT_DIR$/MyInterfacePrivateB/src/MyInterface.java" />
         <option value="$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConst.java" />
         <option value="$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConstMain.java" />
+        <option value="$PROJECT_DIR$/PolymorphismA/src/PolyField.java" />
         <option value="$PROJECT_DIR$/PolymorphismA/src/Fu.java" />
         <option value="$PROJECT_DIR$/PolymorphismA/src/Zi.java" />
-        <option value="$PROJECT_DIR$/PolymorphismA/src/PolyField.java" />
+        <option value="$PROJECT_DIR$/PolymorphismA/src/PolyMethod.java" />
+        <option value="$PROJECT_DIR$/PolymorphismB/src/Animal.java" />
+        <option value="$PROJECT_DIR$/PolymorphismB/src/Cat.java" />
+        <option value="$PROJECT_DIR$/PolymorphismB/src/Main.java" />
       </list>
     </option>
   </component>
@@ -159,12 +143,12 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="PolymorphismA" type="462c0819:PsiDirectoryNode" />
+              <item name="PolymorphismB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="PolymorphismA" type="462c0819:PsiDirectoryNode" />
+              <item name="PolymorphismB" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -196,17 +180,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterfaceDefaultMain">
-    <configuration name="ArrayListReturnDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayListReturnDemo" />
-      <module name="ArrayListReturn" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="InterfaceDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceDefaultMain" />
+      <module name="InterfaceDefault" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceDefaultMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceDefaultMain" />
-      <module name="InterfaceDefault" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PolymorphismB" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,27 +202,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintObjectArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintObjectArrayListDemo" />
-      <module name="PrintObjectArrayList" />
+    <configuration name="PolyField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolyField" />
+      <module name="PolymorphismA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WakeUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WakeUp" />
-      <module name="AbstractPractice" />
+    <configuration name="PolyMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolyMethod" />
+      <module name="PolymorphismA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PolyMethod" />
+        <item itemvalue="Application.PolyField" />
         <item itemvalue="Application.InterfaceDefaultMain" />
         <item itemvalue="Application.MainRedPacket" />
-        <item itemvalue="Application.WakeUp" />
-        <item itemvalue="Application.ArrayListReturnDemo" />
-        <item itemvalue="Application.PrintObjectArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +242,7 @@
       <workItem from="1560251384939" duration="1127000" />
       <workItem from="1560412924583" duration="3383000" />
       <workItem from="1560496481612" duration="9779000" />
-      <workItem from="1560764244861" duration="10501000" />
+      <workItem from="1560764244861" duration="14345000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -278,7 +262,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37104000" />
+    <option name="totallyTimeSpent" value="40948000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,12 +287,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32824427" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -611,10 +595,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConst.java">
+    <entry file="file://$PROJECT_DIR$/PolymorphismB/src/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        <state relative-caret-position="87">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolymorphismA/src/PolyMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolymorphismA/src/PolyField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolymorphismA/src/Zi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -629,28 +646,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolymorphismB/src/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PolymorphismA/src/Fu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="348">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
             <element signature="e#62#63#0" expanded="true" />
             <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PolymorphismA/src/Zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolymorphismA/src/PolyField.java">
+    <entry file="file://$PROJECT_DIR$/PolymorphismB/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
