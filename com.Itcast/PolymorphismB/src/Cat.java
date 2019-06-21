@@ -3,4 +3,9 @@ public class Cat extends Animal{
     public void eat() {
         System.out.println("Cat eats!");
     }
+
+    public void catchMouse(){
+        System.out.println("Catch!");
+    }
+
 }
