@@ -8,4 +8,8 @@ public class Keyboard implements USB{
     public void turnOff() {
         System.out.println("Turn off keyboard!");
     }
+
+    public void type(){
+        System.out.println("Type!");
+    }
 }

@@ -11,7 +11,7 @@ public class Main {
 
         Keyboard keyboard = new Keyboard();
         laptop.useDevice(keyboard); // cast to parent class
-        laptop.useDevice(new Keyboard()); //cast to a parent class via an anonymous class
+        laptop.useDevice(new Keyboard()); //cast to a parent class via an anonymous object
 
         method(10.0);  // double --> double
         method(10); // int --> double
