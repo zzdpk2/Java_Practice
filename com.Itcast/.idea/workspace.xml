@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="58">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -35,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="116">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -57,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com.Itcast.practice/src/Demo1.java" />
         <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/Person.java" />
         <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/ArraylistPractice.java" />
         <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/UnreliableEntitiesList.java" />
@@ -108,6 +103,7 @@
         <option value="$PROJECT_DIR$/FinalKeyword/src/Student.java" />
         <option value="$PROJECT_DIR$/FinalKeyword/src/Final.java" />
         <option value="$PROJECT_DIR$/FinalKeyword/src/Person.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" />
       </list>
     </option>
   </component>
@@ -125,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,7 +152,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,6 +241,7 @@
       <workItem from="1560496481612" duration="9779000" />
       <workItem from="1560764244861" duration="20159000" />
       <workItem from="1561366065391" duration="5100000" />
+      <workItem from="1561398784431" duration="2080000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -264,7 +261,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51862000" />
+    <option name="totallyTimeSpent" value="53942000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -279,7 +276,7 @@
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22616407" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2289357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -294,7 +291,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -806,14 +803,14 @@
     <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        <state relative-caret-position="116">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
