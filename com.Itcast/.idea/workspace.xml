@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InnerClassPractice/src/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/MyAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/MySon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/Stranger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Privilege4Keyword/Privilege4Keyword.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/Privilege4Keywords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultPrac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/USB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/USB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/InterfaceDefault.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InnerClassPractice/InnerClassPractice.iml" afterDir="false" />
-    </list>
+    <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +17,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/Body.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="551">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#462#463#0" expanded="true" />
                 <element signature="e#494#495#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/InnerClassPractice/Body.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#633#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -150,6 +144,24 @@
               <item name="InnerClassPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClassPractice" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -253,7 +265,7 @@
       <workItem from="1561366065391" duration="5100000" />
       <workItem from="1561398784431" duration="4066000" />
       <workItem from="1561520295096" duration="952000" />
-      <workItem from="1561521284866" duration="5517000" />
+      <workItem from="1561521284866" duration="7075000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -273,7 +285,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62397000" />
+    <option name="totallyTimeSpent" value="63955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -303,7 +315,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
@@ -332,18 +344,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BonusAllocation/src/GroupMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -814,10 +814,19 @@
     <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/Body.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#462#463#0" expanded="true" />
             <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/InnerClassPractice/Body.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#633#0" expanded="true" />
           </folding>
         </state>
       </provider>
