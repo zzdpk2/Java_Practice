@@ -1,5 +1,5 @@
 public class Body {
-
+    
     public class Heart { //member inner class
         public void beat() {
             System.out.println("Heart beats!!!!!");
