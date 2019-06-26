@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InnerClassPractice/src/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/MyAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/MySon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/Stranger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Privilege4Keyword/Privilege4Keyword.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Privilege4Keyword/src/sub/Privilege4Keywords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InterfaceDefault/InterfaceDefaultPrac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/USB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/USB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/InterfaceDefault.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InnerClassPractice/InnerClassPractice.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +34,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java">
+        <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/Body.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="551">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="e#462#463#0" expanded="true" />
+                <element signature="e#494#495#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,18 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/Person.java" />
-        <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/ArraylistPractice.java" />
-        <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/UnreliableEntitiesList.java" />
-        <option value="$PROJECT_DIR$/com.itcast.practice.arraylist/ArrayListPractice.java" />
-        <option value="$PROJECT_DIR$/ArrayListRandom/src/Demo01ArrayListRandom.java" />
-        <option value="$PROJECT_DIR$/PrintObjectArrayList/src/PrintObjectArrayListDemo.java" />
-        <option value="$PROJECT_DIR$/ArrayListReturn/src/ArrayListReturnDemo.java" />
-        <option value="$PROJECT_DIR$/StaticChunk/src/StaticChunkPractice.java" />
-        <option value="$PROJECT_DIR$/AbstractPractice/src/Fu.java" />
-        <option value="$PROJECT_DIR$/AbstractPractice/src/Zi.java" />
-        <option value="$PROJECT_DIR$/AbstractPractice/src/WakeUp.java" />
-        <option value="$PROJECT_DIR$/BonusAllocation/src/GroupMember.java" />
         <option value="$PROJECT_DIR$/BonusAllocation/src/MainRedPacket.java" />
         <option value="$PROJECT_DIR$/BonusAllocation/src/Admin.java" />
         <option value="$PROJECT_DIR$/BonusAllocation/src/User.java" />
@@ -103,7 +101,19 @@
         <option value="$PROJECT_DIR$/FinalKeyword/src/Student.java" />
         <option value="$PROJECT_DIR$/FinalKeyword/src/Final.java" />
         <option value="$PROJECT_DIR$/FinalKeyword/src/Person.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keywords/src/MyAnother.java" />
         <option value="$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keywords/src/MyClass.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keywords/src/sub/MySon.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keyword/src/sub/MySon.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/MySon.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keyword/src/sub/Privilege4Keywords.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/Stranger.java" />
+        <option value="$PROJECT_DIR$/Privilege4Keyword/src/sub/MyClass.java" />
+        <option value="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+        <option value="$PROJECT_DIR$/InnerClass/src/MemberInnerClass/Body.kt" />
+        <option value="$PROJECT_DIR$/InnerClass/src/MemberInnerClass/Body.java" />
+        <option value="$PROJECT_DIR$/InnerClassPractice/src/Body.java" />
       </list>
     </option>
   </component>
@@ -121,7 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,26 +142,19 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="Privilege4Keywords" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClassPractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="Privilege4Keywords" type="462c0819:PsiDirectoryNode" />
+              <item name="InnerClassPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="Privilege4Keywords" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sub" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,6 +167,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/InnerClassPractice/src" />
+      <recent name="$PROJECT_DIR$/Privilege4Keyword/src/sub_t" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,7 +251,9 @@
       <workItem from="1560496481612" duration="9779000" />
       <workItem from="1560764244861" duration="20159000" />
       <workItem from="1561366065391" duration="5100000" />
-      <workItem from="1561398784431" duration="2080000" />
+      <workItem from="1561398784431" duration="4066000" />
+      <workItem from="1561520295096" duration="952000" />
+      <workItem from="1561521284866" duration="5517000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -261,7 +273,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53942000" />
+    <option name="totallyTimeSpent" value="62397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,7 +288,7 @@
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2289357" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23447894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -285,16 +297,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32824427" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -320,78 +332,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com.itcast.practice.arraylist/ArrayListPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayListRandom/src/Demo01ArrayListRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrintObjectArrayList/src/PrintObjectArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractPractice/src/Fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
-          <folding>
-            <element signature="e#42#43#0" expanded="true" />
-            <element signature="e#78#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractPractice/src/Zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding>
-            <element signature="e#44#45#0" expanded="true" />
-            <element signature="e#80#81#0" expanded="true" />
-            <element signature="e#65#66#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayListReturn/src/ArrayListReturnDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AbstractPractice/src/WakeUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com.itcast.practice.arraylist/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BonusAllocation/src/GroupMember.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -800,17 +740,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/Privilege4Keywords.java">
+    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub_t.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MyClass.java">
+    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MySon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/MyAnother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#56#57#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/MySon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/Stranger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#75#76#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/Privilege4Keywords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerClass/InnerClass.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/Body.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -864,7 +872,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Privilege4Keywords</last-edited>
+          <last-edited>InnerClassPractice</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
