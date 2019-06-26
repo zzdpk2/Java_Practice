@@ -11,6 +11,7 @@ public class Body {
 
     public void methodBody() {
         System.out.println("Outer class method!");
+        new Heart().beat();
     }
 
     public String getName() {
