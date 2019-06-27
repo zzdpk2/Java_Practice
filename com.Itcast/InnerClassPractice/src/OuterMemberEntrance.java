@@ -4,3 +4,5 @@ public class OuterMemberEntrance {
         outerMember.methodOuter();
     }
 }
+
+
