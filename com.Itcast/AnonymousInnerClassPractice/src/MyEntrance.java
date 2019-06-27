@@ -18,5 +18,18 @@ public class MyEntrance {
         obj.method1();
         obj.method2();
 
+        System.out.println("========================");
+
+        new MyInterface() {
+            @Override
+            public void method1() {
+                System.out.println("method1 nested in anonymous class is executed!");
+            }
+
+            public void method2() {
+                System.out.println("method2 nested in anonymous class is executed!");
+            }
+        }.method1();
+
     }
 }

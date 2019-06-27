@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterfaceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +42,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterfaceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="203">
@@ -58,16 +57,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="390">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#305#306#0" expanded="true" />
                 <element signature="e#405#406#0" expanded="true" />
                 <element signature="e#442#443#0" expanded="true" />
                 <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#844#845#0" expanded="true" />
+                <element signature="e#981#982#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,8 +139,8 @@
         <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterMemberEntrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/Outer4Final.java" />
         <option value="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterface.java" />
-        <option value="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java" />
         <option value="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java" />
       </list>
     </option>
   </component>
@@ -163,17 +164,6 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="AnonymousInnerClassPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="AnonymousInnerClassPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,7 +271,7 @@
       <workItem from="1561520295096" duration="952000" />
       <workItem from="1561521284866" duration="7075000" />
       <workItem from="1561532912372" duration="4821000" />
-      <workItem from="1561603822116" duration="5255000" />
+      <workItem from="1561603822116" duration="6547000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -301,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74031000" />
+    <option name="totallyTimeSpent" value="75323000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,9 +304,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24002217" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24002217" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,10 +320,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32824427" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32824427" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -782,19 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterfaceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -804,6 +780,21 @@
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
             <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyEntrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#981#982#0" expanded="true" />
           </folding>
         </state>
       </provider>
