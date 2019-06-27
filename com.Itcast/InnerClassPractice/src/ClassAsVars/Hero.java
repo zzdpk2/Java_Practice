@@ -15,6 +15,13 @@ public class Hero {
         this.weapon = weapon;
     }
 
+    public void attack(){
+        System.out.println("Age: " + age );
+        System.out.println("Name: " + name);
+        System.out.println("Weapon: " + weapon.getCode());
+        System.out.println("Attack!");
+    }
+
     public String getName() {
         return name;
     }
