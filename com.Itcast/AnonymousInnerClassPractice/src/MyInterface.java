@@ -1,2 +1,5 @@
-public class MyInterface {
+public interface MyInterface {
+
+    public abstract void method();
+
 }
