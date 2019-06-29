@@ -1,4 +1,6 @@
-package object.tostring;
+package object;
+
+import java.util.Objects;
 
 public class Person {
     private String name;
@@ -24,6 +26,15 @@ public class Person {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if(o instanceof Person){
+            Person p = (Person)o;
+            System.out.println(this.name.equals(p.getName()) && this.age == (p.age));
+        }
+        return false;
     }
 
     public String getName() {

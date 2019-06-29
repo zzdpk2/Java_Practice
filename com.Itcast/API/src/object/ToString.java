@@ -1,4 +1,4 @@
-package object.tostring;
+package object;
 
 import java.util.ArrayList;
 import java.util.Random;
