@@ -28,15 +28,30 @@ public class Person {
                 '}';
     }
 
+//    @Override
+//    public boolean equals(Object o) {
+//        if(o == this)   return true;
+//
+//        if(o instanceof Person){
+//            Person p = (Person)o;
+//            System.out.println(this.getName().equals(p.getName()) && this.getAge() == (p.getAge()));
+//        }
+//        return false;
+//    }
+
     @Override
     public boolean equals(Object o) {
-        if(o == this)   return true;
+        if (this == o) return true;
+        // verify the type of class under reflection
+        if (o == null || getClass() != o.getClass()) return false;
+        Person person = (Person) o;
+        return age == person.age &&
+                Objects.equals(name, person.name);
+    }
 
-        if(o instanceof Person){
-            Person p = (Person)o;
-            System.out.println(this.getName().equals(p.getName()) && this.getAge() == (p.getAge()));
-        }
-        return false;
+    @Override
+    public int hashCode() {
+        return Objects.hash(name, age);
     }
 
     public String getName() {
