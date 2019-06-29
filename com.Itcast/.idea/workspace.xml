@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API/src/object/Equals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/object/tostring/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/object/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API/src/object/tostring/ToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/object/ToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/object/tostring/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/object/tostring/ToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API/src/object/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/API/src/object/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,13 +43,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/API/src/object/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="100">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
               <folding>
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#954#955#0" expanded="true" />
-                <element signature="e#1007#1008#0" expanded="true" />
-                <element signature="e#1072#1073#0" expanded="true" />
+                <element signature="e#940#941#0" expanded="true" />
+                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -308,7 +303,7 @@
       <workItem from="1561603822116" duration="13525000" />
       <workItem from="1561698360601" duration="3258000" />
       <workItem from="1561732248434" duration="1091000" />
-      <workItem from="1561783181117" duration="6059000" />
+      <workItem from="1561783181117" duration="6607000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -328,7 +323,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92709000" />
+    <option name="totallyTimeSpent" value="93257000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,12 +348,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26499456" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26499456" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
@@ -858,13 +853,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/src/object/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="100">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
           <folding>
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#954#955#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
           </folding>
         </state>
       </provider>

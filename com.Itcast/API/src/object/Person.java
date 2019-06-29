@@ -30,9 +30,11 @@ public class Person {
 
     @Override
     public boolean equals(Object o) {
+        if(o == this)   return true;
+
         if(o instanceof Person){
             Person p = (Person)o;
-            System.out.println(this.name.equals(p.getName()) && this.age == (p.age));
+            System.out.println(this.getName().equals(p.getName()) && this.getAge() == (p.getAge()));
         }
         return false;
     }
