@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InnerClassPractice/src/red/OpenMode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -33,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/red/OpenMode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
+            <state relative-caret-position="145">
               <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -58,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MyInterfaceConst/src/MyInterfaceConstMain.java" />
         <option value="$PROJECT_DIR$/PolymorphismA/src/PolyField.java" />
         <option value="$PROJECT_DIR$/PolymorphismA/src/Fu.java" />
         <option value="$PROJECT_DIR$/PolymorphismA/src/Zi.java" />
@@ -108,6 +106,7 @@
         <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/Entrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/InterfaceEntrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/red/OpenMode.java" />
+        <option value="$PROJECT_DIR$/InnerClassPractice/src/red/RedPacketFrame.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java" />
       </list>
     </option>
@@ -126,6 +125,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,8 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,6 +276,8 @@
       <workItem from="1561532912372" duration="4821000" />
       <workItem from="1561603822116" duration="13525000" />
       <workItem from="1561698360601" duration="3258000" />
+      <workItem from="1561732248434" duration="1091000" />
+      <workItem from="1561783181117" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -296,7 +297,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85559000" />
+    <option name="totallyTimeSpent" value="86660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -311,7 +312,7 @@
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2427938" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24833703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -366,13 +367,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PolymorphismA/src/PolyMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PolymorphismA/src/PolyField.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -819,20 +813,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/red/RedPacketFrame.java" />
+    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/red/OpenMode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
+        <state relative-caret-position="145">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/RedPacket/Bootstrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

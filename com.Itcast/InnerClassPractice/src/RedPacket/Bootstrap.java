@@ -8,6 +8,6 @@ package RedPacket;
         2、手气红包（策略）: 最少一分钱，最多不超过平均数的2倍。余额越发越少
 */
 public class Bootstrap {
-
+    
 }
 
