@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API/src/packandunpack/AutoPackAndUnpack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,10 +23,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java">
+        <entry file="file://$PROJECT_DIR$/collection/src/collection/CollectonUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="261">
+              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/Outer.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterEntrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterMember.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterMemberEntrance.java" />
@@ -98,6 +100,7 @@
         <option value="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpack.java" />
         <option value="$PROJECT_DIR$/API/src/packandunpack/AutoPackAndUnpack.java" />
         <option value="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java" />
+        <option value="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" />
       </list>
     </option>
   </component>
@@ -125,20 +128,20 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="packandunpack" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PackAndUnpackString">
+  <component name="RunManager" selected="Application.CollectonUse">
     <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="system.ArrayCopy" />
       <module name="API" />
@@ -193,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calendar_r" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calendar.Calendar_r" />
-      <module name="API" />
+    <configuration name="CollectonUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.CollectonUse" />
+      <module name="collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calendar.*" />
+          <option name="PATTERN" value="collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectonUse" />
         <item itemvalue="Application.PackAndUnpackString" />
         <item itemvalue="Application.StringBuilder_rr" />
         <item itemvalue="Application.ArrayCopy" />
         <item itemvalue="Application.SystemPractice" />
-        <item itemvalue="Application.Calendar_r" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +287,7 @@
       <workItem from="1561967046032" duration="1410000" />
       <workItem from="1562034322270" duration="3372000" />
       <workItem from="1562044550635" duration="7456000" />
-      <workItem from="1562076767859" duration="4431000" />
+      <workItem from="1562076767859" duration="7085000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -304,7 +307,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114634000" />
+    <option name="totallyTimeSpent" value="117288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,7 +377,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub_t.java" />
     <entry file="file://$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" />
     <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MySon.java" />
     <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/MyAnother.java">
@@ -770,8 +772,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="232">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection/src/collection/CollectonUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -825,7 +837,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>AnonymousInnerClassPractice</last-edited>
+          <last-edited>collection</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

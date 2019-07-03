@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Privilege4Keyword/Privilege4Keyword.iml" filepath="$PROJECT_DIR$/Privilege4Keyword/Privilege4Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" filepath="$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticChunk/StaticChunk.iml" filepath="$PROJECT_DIR$/StaticChunk/StaticChunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.iml" filepath="$PROJECT_DIR$/com.Itcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" filepath="$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" />
     </modules>
