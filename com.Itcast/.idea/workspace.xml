@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collection/collection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,13 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/collection/src/collection/CollectonUse.java">
+        <entry file="file://$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="116">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -50,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterEntrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterMember.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterMemberEntrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/Outer4Final.java" />
@@ -101,6 +95,7 @@
         <option value="$PROJECT_DIR$/API/src/packandunpack/AutoPackAndUnpack.java" />
         <option value="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java" />
         <option value="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" />
+        <option value="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" />
       </list>
     </option>
   </component>
@@ -141,7 +136,7 @@
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
               <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,7 +282,7 @@
       <workItem from="1561967046032" duration="1410000" />
       <workItem from="1562034322270" duration="3372000" />
       <workItem from="1562044550635" duration="7456000" />
-      <workItem from="1562076767859" duration="7085000" />
+      <workItem from="1562076767859" duration="7488000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -307,7 +302,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117288000" />
+    <option name="totallyTimeSpent" value="117691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -322,7 +317,7 @@
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2594235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2594235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -332,12 +327,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26499456" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26499456" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
@@ -377,7 +372,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Privilege4Keywords/Privilege4Keywords.iml" />
     <entry file="file://$PROJECT_DIR$/Privilege4Keywords/src/sub/MySon.java" />
     <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/MyAnother.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -779,11 +773,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection/src/collection/CollectonUse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        <state relative-caret-position="71">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
