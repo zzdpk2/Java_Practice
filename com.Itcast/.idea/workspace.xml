@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/collection/src/Iterator/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/PolyDef.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/src/Advance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
-              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/collection/src/Iterator/ForEach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="464">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PolyDef/src/Advance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -58,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/OuterMemberEntrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/Outer4Final.java" />
         <option value="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterface.java" />
         <option value="$PROJECT_DIR$/AnonymousInnerClassPractice/src/MyInterfaceImpl.java" />
@@ -109,6 +118,7 @@
         <option value="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" />
         <option value="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" />
         <option value="$PROJECT_DIR$/collection/src/Iterator/ForEach.java" />
+        <option value="$PROJECT_DIR$/PolyDef/src/Advance.java" />
       </list>
     </option>
   </component>
@@ -136,20 +146,13 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="PolyDef" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="PolyDef" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
-              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +299,7 @@
       <workItem from="1562034322270" duration="3372000" />
       <workItem from="1562044550635" duration="7456000" />
       <workItem from="1562076767859" duration="7886000" />
-      <workItem from="1562161446197" duration="2053000" />
+      <workItem from="1562161446197" duration="3881000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -316,7 +319,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120142000" />
+    <option name="totallyTimeSpent" value="121970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,17 +389,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/MyAnother.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#56#57#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Privilege4Keyword/src/sub/sub_t/MySon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -797,7 +789,7 @@
     <entry file="file://$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -806,8 +798,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection/src/Iterator/ForEach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="464">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/Advance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
