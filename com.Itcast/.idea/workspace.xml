@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterfaceEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PolyDef/src/WildCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/Advance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/Advance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PolyDef/src/WildCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolyDef/src/WildCard.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +22,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PolyDef/src/WildCard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="55">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -271,6 +268,7 @@
       <workItem from="1562076767859" duration="7886000" />
       <workItem from="1562161446197" duration="6727000" />
       <workItem from="1562258728907" duration="7009000" />
+      <workItem from="1562311785918" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -290,7 +288,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131825000" />
+    <option name="totallyTimeSpent" value="131920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,10 +300,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
+    <frame x="70" y="27" width="1544" height="707" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31984478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26902536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -315,12 +313,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38528895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.61821365" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20501636" />
@@ -789,8 +787,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PolyDef/src/WildCard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="55">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
