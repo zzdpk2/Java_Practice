@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
 
 public class WildCard {
@@ -13,6 +14,30 @@ public class WildCard {
 
 //        wrong
 //        ArrayList<?> list = new ArrayList<>();
+
+        // Polymorphism restrictions
+        Collection<Integer> list1 = new ArrayList<>();
+        Collection<String> list2 = new ArrayList<>();
+        Collection<Number> list3 = new ArrayList<>();
+        Collection<Object> list4 = new ArrayList<>();
+
+        getElement(list1);
+//        getElement(list2);
+        getElement(list3);
+//        getElement(list4);
+
+//        getElement2(list1);
+//        getElement2(list2);
+        getElement2(list3);
+        getElement2(list4);
+
+    }
+
+    private static void getElement(Collection<? extends Number> coll) {
+    }
+
+    public static void getElement2(Collection<? super Number> coll) {
+
     }
 
     public static void printArray(ArrayList<?> list){
