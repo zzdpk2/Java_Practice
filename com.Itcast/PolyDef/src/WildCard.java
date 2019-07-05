@@ -15,6 +15,9 @@ public class WildCard {
 //        wrong
 //        ArrayList<?> list = new ArrayList<>();
 
+
+        // Integer extends Number extends Object
+        // String extends Number
         // Polymorphism restrictions
         Collection<Integer> list1 = new ArrayList<>();
         Collection<String> list2 = new ArrayList<>();
