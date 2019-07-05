@@ -10,6 +10,9 @@ public class WildCard {
         ArrayList<String> list02 = new ArrayList<>();
         list02.add("A");
         list02.add("B");
+
+//        wrong
+//        ArrayList<?> list = new ArrayList<>();
     }
 
     public static void printArray(ArrayList<?> list){
