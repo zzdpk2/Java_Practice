@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PolyDef/src/GenericMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolyDef/src/GenericMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PolyDef/src/GenericMethodEntrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolyDef/src/GenericMethodEntrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterfaceEntrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyDef/src/WildCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/Advance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/Advance.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,25 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericMethodEntrance.java">
+        <entry file="file://$PROJECT_DIR$/PolyDef/src/WildCard.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericMethod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding>
-                <element signature="e#61#62#0" expanded="true" />
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-              </folding>
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -60,11 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/ClassAsVars/Weapon.java" />
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/ClassAsVars/Hero.java" />
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/ClassAsVars/Entrance.java" />
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/Skill.java" />
-        <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/SkillImpl.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/Hero.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/Entrance.java" />
         <option value="$PROJECT_DIR$/InnerClassPractice/src/InterfaceAsVars/InterfaceEntrance.java" />
@@ -111,6 +96,11 @@
         <option value="$PROJECT_DIR$/PolyDef/src/GenericClassEntrance.java" />
         <option value="$PROJECT_DIR$/PolyDef/src/GenericMethod.java" />
         <option value="$PROJECT_DIR$/PolyDef/src/GenericMethodEntrance.java" />
+        <option value="$PROJECT_DIR$/PolyDef/src/GenericInterface.java" />
+        <option value="$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl2.java" />
+        <option value="$PROJECT_DIR$/PolyDef/src/GenericInterfaceEntrance.java" />
+        <option value="$PROJECT_DIR$/PolyDef/src/WildCard.java" />
       </list>
     </option>
   </component>
@@ -185,23 +175,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Advance">
+  <component name="RunManager" selected="Application.GenericInterfaceEntrance">
     <configuration name="Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance" />
       <module name="PolyDef" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="system.ArrayCopy" />
-      <module name="API" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="system.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,6 +192,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericInterfaceEntrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericInterfaceEntrance" />
+      <module name="PolyDef" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -247,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericInterfaceEntrance" />
         <item itemvalue="Application.Advance" />
         <item itemvalue="Application.CollectonUse" />
         <item itemvalue="Application.PackAndUnpackString" />
         <item itemvalue="Application.StringBuilder_rr" />
-        <item itemvalue="Application.ArrayCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +270,7 @@
       <workItem from="1562044550635" duration="7456000" />
       <workItem from="1562076767859" duration="7886000" />
       <workItem from="1562161446197" duration="6727000" />
-      <workItem from="1562258728907" duration="5147000" />
+      <workItem from="1562258728907" duration="7009000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -306,7 +290,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129963000" />
+    <option name="totallyTimeSpent" value="131825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,15 +315,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3293348" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23991276" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.38528895" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.20501636" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -376,35 +360,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" />
-    <entry file="file://$PROJECT_DIR$/out/production/InnerClassPractice/Body.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/Body.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/InnerClassPracticeEntrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/OuterEntrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InnerClassPractice/src/Outer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -737,21 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PolyDef/src/Advance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -786,6 +726,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericMethodEntrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -793,16 +740,57 @@
           <folding>
             <element signature="e#61#62#0" expanded="true" />
             <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericMethodEntrance.java">
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericInterfaceEntrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericInterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="37" lean-forward="true" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PolyDef/src/WildCard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
