@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.iml" filepath="$PROJECT_DIR$/com.Itcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" filepath="$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetUse/setuse.iml" filepath="$PROJECT_DIR$/SetUse/setuse.iml" />
     </modules>
   </component>
 </project>
