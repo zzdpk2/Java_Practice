@@ -1,7 +1,9 @@
 import java.util.HashSet;
 
 public class SetNotDup {
+
     public static void main(String[] args) {
+
         HashSet<String> set = new HashSet<>();
         String s1 = "abc";
         String s2 = "abc";
@@ -12,5 +14,6 @@ public class SetNotDup {
         set.add("abc");
 
         System.out.println(set);
+
     }
 }
