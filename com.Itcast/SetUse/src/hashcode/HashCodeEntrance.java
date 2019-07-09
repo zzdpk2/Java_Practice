@@ -1,4 +1,4 @@
-package HashCode;
+package hashcode;
 
 public class HashCodeEntrance {
 
