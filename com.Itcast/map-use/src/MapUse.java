@@ -29,15 +29,13 @@ public class MapUse {
     }
 
 
-    private static Map<Integer, String> createData() {
+    public static Map<Integer, String> createData() {
         Map<Integer, String> map = new HashMap<>();
         map.put(1, "a");
         map.put(2, "b");
         map.put(3, "c");
         map.put(4, "d");
-
         return map;
-
     }
 
     private static void show01() {
