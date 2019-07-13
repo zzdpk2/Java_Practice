@@ -1,14 +1,15 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
 public class Entrance {
 
-    List<String> types = List.of("♠", "♥", "♣", "♦");
-    List<String> names = List.of("2",
+    static List<String> types = List.of("♠", "♥", "♣", "♦");
+    static List<String> names = List.of("2",
             "A", "K", "Q", "J", "10",
             "9", "8", "7", "6", "5", "4", "3");
-    List<String> names_s = List.of("Joker", "Little Joker");
+    static List<String> names_s = List.of("Joker", "Little Joker");
 
     public Entrance() {
     }
@@ -19,42 +20,31 @@ public class Entrance {
         this.names_s = names_s;
     }
 
-    public List<String> getTypes() {
+    public static List<String> getTypes() {
         return types;
     }
 
-    public void setTypes(List<String> types) {
-        this.types = types;
+    public static void setTypes(List<String> types) {
+        Entrance.types = types;
     }
 
-    public List<String> getNames() {
+    public static List<String> getNames() {
         return names;
     }
 
-    public void setNames(List<String> names) {
-        this.names = names;
+    public static void setNames(List<String> names) {
+        Entrance.names = names;
     }
 
-    public List<String> getNames_s() {
+    public static List<String> getNames_s() {
         return names_s;
     }
 
-    public void setNames_s(List<String> names_s) {
-        this.names_s = names_s;
+    public static void setNames_s(List<String> names_s) {
+        Entrance.names_s = names_s;
     }
-
-
 
     public static void main(String[] args) {
-        createData();
-        shuffleData();
-        deliver();
-        sortData();
-        check();
-    }
-
-    public static void createData() {
-
         HashMap<Integer, String> poker = new HashMap<>();
         ArrayList<Integer> pokerIndex = new ArrayList<>();
 
@@ -74,25 +64,39 @@ public class Entrance {
             }
         }
 
+        Collections.shuffle(pokerIndex);
 
-//        System.out.println(poker);
-//        System.out.println(pokerIndex);
+        ArrayList<Integer> players01 = new ArrayList<>();
+        ArrayList<Integer> players02 = new ArrayList<>();
+        ArrayList<Integer> players03 = new ArrayList<>();
+        ArrayList<Integer> jokers = new ArrayList<>();
+
+        for (int i = 0; i < pokerIndex.size(); i++) {
+            if(i >= 51) jokers.add(pokerIndex.get(i));
+            else if(i % 3 == 0)  players01.add(pokerIndex.get(i));
+            else if(i % 3 == 1)  players02.add(pokerIndex.get(i));
+            else if(i % 3 == 2)  players03.add(pokerIndex.get(i));
+        }
+
+        Collections.sort(players01);
+        Collections.sort(players02);
+        Collections.sort(players03);
+        Collections.sort(jokers);
+
+        check(poker, players01);
+        check(poker, players02);
+        check(poker, players03);
+        check(poker, jokers);
 
     }
 
-    private static void shuffleData() {
+    private static void check(HashMap<Integer, String> pokerDic, ArrayList<Integer> list) {
 
-    }
+        System.out.println("Player: ");
+        for (Integer key : list)
+            System.out.println(pokerDic.get(key));
 
-    private static void deliver() {
-
-    }
-
-    private static void sortData() {
-
-    }
-
-    private static void check() {
+        System.out.println();
     }
 
 }
