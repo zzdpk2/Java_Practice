@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Privilege4Keyword/InterfaceDefault.iml" filepath="$PROJECT_DIR$/Privilege4Keyword/InterfaceDefault.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfaceStatic/InterfaceStatic.iml" filepath="$PROJECT_DIR$/InterfaceStatic/InterfaceStatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/Landlords/Landlords.iml" filepath="$PROJECT_DIR$/Landlords/Landlords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Landlords2/Landlords2.iml" filepath="$PROJECT_DIR$/Landlords2/Landlords2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListUse/ListUse.iml" filepath="$PROJECT_DIR$/ListUse/ListUse.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInterfaceConst/MyInterfaceConst.iml" filepath="$PROJECT_DIR$/MyInterfaceConst/MyInterfaceConst.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyInterfacePrivateA/MyInterfacePrivateA.iml" filepath="$PROJECT_DIR$/MyInterfacePrivateA/MyInterfacePrivateA.iml" />
@@ -33,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.iml" filepath="$PROJECT_DIR$/com.Itcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" filepath="$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug-test/debug-test.iml" filepath="$PROJECT_DIR$/debug-test/debug-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-use/map-use.iml" filepath="$PROJECT_DIR$/map-use/map-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetUse/setuse.iml" filepath="$PROJECT_DIR$/SetUse/setuse.iml" />
       <module fileurl="file://$PROJECT_DIR$/tools-collections/tools-collections.iml" filepath="$PROJECT_DIR$/tools-collections/tools-collections.iml" />

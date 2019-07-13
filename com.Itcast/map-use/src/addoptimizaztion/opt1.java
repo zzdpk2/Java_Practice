@@ -6,6 +6,7 @@ import java.util.Set;
 
 public class opt1 {
     public static void main(String[] args) {
+
         List<String> list = List.of("a", "b", "a", "c", "d");
         System.out.println(list);
 //        list.add("f");
