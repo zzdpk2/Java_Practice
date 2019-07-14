@@ -1,21 +1,21 @@
 package exception;
 
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
 public class ThrowsUse {
-
-    public static void main(String[] args) {
-        int[] arr = null;
-        int v = getElement(arr, 0);
-        System.out.println(v);
+    public static void main(String[] args) throws /*FileNotFoundException,*/ IOException {
+//        readFile("c:\\a.txt");
+        readFile("d:\\a.txt");
     }
 
-    public static int getElement(int[] arr, int index){
+    public static void readFile(String fileName) throws /*FileNotFoundException,*/ IOException{
+        if(!fileName.equals("c:\\\\a.txt"))
+            throw new FileNotFoundException("The filename is wrong!");
 
-        if(arr == null) throw new NullPointerException("The array is not valid!");
-
-        if(index < 0 || index > arr.length - 1)
-            throw new ArrayIndexOutOfBoundsException("The index of array is out of bound!");
-
-        return arr[index];
+        if(!fileName.endsWith(".txt"))
+            throw new IOException("The input file is error!");
 
     }
+
 }

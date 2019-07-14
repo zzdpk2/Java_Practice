@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/throwable-use/throwable-use.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ThrowUse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,18 +31,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowUse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="46">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="11" column="80" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="253">
               <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="72" />
               <folding>
                 <element signature="e#93#94#0" expanded="true" />
@@ -90,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java" />
-        <option value="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" />
         <option value="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" />
         <option value="$PROJECT_DIR$/collection/src/Iterator/ForEach.java" />
         <option value="$PROJECT_DIR$/PolyDef/src/Advance.java" />
@@ -139,8 +145,10 @@
         <option value="$PROJECT_DIR$/Landlords2/src/Entrance.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java" />
-        <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowUse.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUsE.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" />
       </list>
     </option>
   </component>
@@ -225,20 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectsNonNull">
-    <configuration name="CountChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.CountChars" />
-      <module name="map-use" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThrowsUse">
     <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Entrance" />
       <module name="Landlords2" />
@@ -248,6 +243,19 @@
     </configuration>
     <configuration name="ObjectsNonNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception.ObjectsNonNull" />
+      <module name="throwable-use" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowsUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ThrowsUse" />
       <module name="throwable-use" />
       <extension name="coverage">
         <pattern>
@@ -281,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowsUse" />
         <item itemvalue="Application.ObjectsNonNull" />
         <item itemvalue="Application.Entrance" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.opt1" />
-        <item itemvalue="Application.CountChars" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +342,7 @@
       <workItem from="1562746548887" duration="598000" />
       <workItem from="1562770603809" duration="32226000" />
       <workItem from="1563076030085" duration="2321000" />
-      <workItem from="1563088565515" duration="1669000" />
+      <workItem from="1563088565515" duration="3984000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -354,7 +362,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194009000" />
+    <option name="totallyTimeSpent" value="196324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,16 +448,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericClassEntrance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
@@ -884,20 +882,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
+        <state relative-caret-position="253">
           <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="72" />
           <folding>
             <element signature="e#93#94#0" expanded="true" />
             <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
