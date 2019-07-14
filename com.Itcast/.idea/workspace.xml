@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Landlords2/src/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Landlords2/src/Entrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/throwable-use.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,26 +24,45 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Landlords2/src/Entrance.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
+            <state relative-caret-position="161">
+              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="72" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#117#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,10 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/API/src/packandunpack/pack.java" />
-        <option value="$PROJECT_DIR$/API/src/packandunpack/packandunpack.java" />
-        <option value="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpack.java" />
-        <option value="$PROJECT_DIR$/API/src/packandunpack/AutoPackAndUnpack.java" />
         <option value="$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java" />
         <option value="$PROJECT_DIR$/collection/src/collection/CollectonUse.java" />
         <option value="$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java" />
@@ -116,13 +137,17 @@
         <option value="$PROJECT_DIR$/map-use/src/addoptimizaztion/opt1.java" />
         <option value="$PROJECT_DIR$/debug-test/src/test.java" />
         <option value="$PROJECT_DIR$/Landlords2/src/Entrance.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="466" />
+    <option name="x" value="465" />
     <option name="y" value="205" />
-    <option name="width" value="1384" />
+    <option name="width" value="1385" />
     <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -133,8 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,23 +168,27 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="Landlords" type="462c0819:PsiDirectoryNode" />
+              <item name="throwable-use" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="Landlords" type="462c0819:PsiDirectoryNode" />
+              <item name="throwable-use" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="Landlords2" type="462c0819:PsiDirectoryNode" />
+              <item name="throwable-use" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Entrance">
+  <component name="RunManager" selected="Application.ObjectsNonNull">
     <configuration name="CountChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.CountChars" />
       <module name="map-use" />
@@ -219,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapEntrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedHashMap.LinkedHashMapEntrance" />
-      <module name="map-use" />
+    <configuration name="ObjectsNonNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ObjectsNonNull" />
+      <module name="throwable-use" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedHashMap.*" />
+          <option name="PATTERN" value="exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectsNonNull" />
         <item itemvalue="Application.Entrance" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.opt1" />
         <item itemvalue="Application.CountChars" />
-        <item itemvalue="Application.LinkedHashMapEntrance" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +332,9 @@
       <workItem from="1562678156844" duration="4083000" />
       <workItem from="1562698769594" duration="1693000" />
       <workItem from="1562746548887" duration="598000" />
-      <workItem from="1562770603809" duration="28925000" />
+      <workItem from="1562770603809" duration="32226000" />
+      <workItem from="1563076030085" duration="2321000" />
+      <workItem from="1563088565515" duration="1669000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -325,7 +354,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186718000" />
+    <option name="totallyTimeSpent" value="194009000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,7 +369,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15348525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22654155" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -355,7 +384,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1819464" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33145276" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20501636" />
@@ -411,40 +440,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/API/src/packandunpack/PackAndUnpackString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/collection/CollectonUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PolyDef/src/Advance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/Iterator/ForEach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/collection/src/Iterator/IteratorUse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -852,8 +847,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Landlords2/src/Entrance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="96" column="35" selection-start-line="96" selection-start-column="35" selection-end-line="96" selection-end-column="35" />
+        <state relative-caret-position="310">
+          <caret line="87" column="32" selection-start-line="87" selection-start-column="32" selection-end-line="87" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#145#146#0" expanded="true" />
@@ -868,6 +863,41 @@
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#568#569#0" expanded="true" />
             <element signature="e#610#611#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="72" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
           </folding>
         </state>
       </provider>
