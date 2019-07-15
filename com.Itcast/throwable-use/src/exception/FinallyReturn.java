@@ -4,6 +4,7 @@ public class FinallyReturn {
 
     public static void main(String[] args) {
         System.out.println(getA());
+//        System.out.println("good");
     }
 
     public static int getA(){
