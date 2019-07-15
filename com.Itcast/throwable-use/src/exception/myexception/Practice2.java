@@ -2,7 +2,7 @@ package exception.myexception;
 
 import java.util.Scanner;
 
-public class Practice {
+public class Practice2 {
 
     static String[] usernames = {"aaa","bbb", "ccc"};
 
@@ -16,18 +16,9 @@ public class Practice {
 
     public static void checkUsername(String name) /*throws RegisterException*/{
         for (String username : usernames) {
-
-            if(name.equals(username)){
-                try {
+            if(name.equals(username))
                     throw new RegisterException("This username has already been registered!");
-                } catch (RegisterException e) {
-                    e.printStackTrace();
-                    return;
-                }
-            }
-            
         }
-
         System.out.println("The user has been successfully added!");
     }
 }

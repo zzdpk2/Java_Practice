@@ -2,7 +2,7 @@ package exception.myexception;
 
 
 // Self-defined exception
-public class RegisterException extends Exception{
+public class RegisterException extends RuntimeException /*Exception*/{
 
     public RegisterException() {
     }
