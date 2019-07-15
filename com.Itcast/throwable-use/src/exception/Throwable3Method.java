@@ -3,7 +3,7 @@ package exception;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class TryCatch {
+public class Throwable3Method {
 
     public static void main(String[] args) {
         try {
@@ -15,6 +15,8 @@ public class TryCatch {
             System.out.println("not a txt file!");*/
 
             System.out.println(e.getMessage());
+            System.out.println(e.toString());
+            e.printStackTrace();
 
         }
 
