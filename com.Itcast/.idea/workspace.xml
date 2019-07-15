@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multithred/src/mainthread/MainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithred/src/mainthread/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/multithreadunit/MultiThreadUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/multithreadunit/MyThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,27 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/multithred/src/mainthread/MainThread.java">
+        <entry file="file://$PROJECT_DIR$/multithred/src/multithreadunit/MultiThreadUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="230">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multithred/src/mainthread/Person.java">
+        <entry file="file://$PROJECT_DIR$/multithred/src/multithreadunit/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-              <folding>
-                <element signature="e#101#102#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="161">
+              <caret line="7" column="44" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -75,8 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Landlords/src/LandlordsEntrance.java" />
-        <option value="$PROJECT_DIR$/ListUse/src/ListEntrance.java" />
         <option value="$PROJECT_DIR$/ListUse/src/impl/ArrayList.java" />
         <option value="$PROJECT_DIR$/ListUse/src/impl/ArrayListEntrance.java" />
         <option value="$PROJECT_DIR$/ListUse/src/impl/LinkedListEntrance.java" />
@@ -126,6 +116,8 @@
         <option value="$PROJECT_DIR$/multithred/src/MainThread.java" />
         <option value="$PROJECT_DIR$/multithred/src/mainthread/Person.java" />
         <option value="$PROJECT_DIR$/multithred/src/mainthread/MainThread.java" />
+        <option value="$PROJECT_DIR$/multithred/src/multithreadunit/MyThread.java" />
+        <option value="$PROJECT_DIR$/multithred/src/multithreadunit/MultiThreadUnit.java" />
       </list>
     </option>
   </component>
@@ -168,7 +160,7 @@
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
               <item name="multithred" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mainthread" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreadunit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Finally">
+  <component name="RunManager" selected="Application.MultiThreadUnit">
     <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exception.Finally" />
       <module name="throwable-use" />
@@ -224,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectsNonNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.ObjectsNonNull" />
-      <module name="throwable-use" />
+    <configuration name="MultiThreadUnit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multithreadunit.MultiThreadUnit" />
+      <module name="multithred" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
+          <option name="PATTERN" value="multithreadunit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiThreadUnit" />
         <item itemvalue="Application.Finally" />
         <item itemvalue="Application.Throwable3Method" />
         <item itemvalue="Application.TryCatch" />
         <item itemvalue="Application.ThrowsUse" />
-        <item itemvalue="Application.ObjectsNonNull" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +325,7 @@
       <workItem from="1563076030085" duration="2321000" />
       <workItem from="1563088565515" duration="5728000" />
       <workItem from="1563162182974" duration="6283000" />
-      <workItem from="1563203115280" duration="4186000" />
+      <workItem from="1563203115280" duration="4699000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -353,7 +345,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208537000" />
+    <option name="totallyTimeSpent" value="209050000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,20 +431,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ElementaryDataStructures/src/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElementaryDataStructures/src/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ListUse/src/impl/ArrayListEntrance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -904,6 +882,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/multithreadunit/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/multithreadunit/MultiThreadUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
