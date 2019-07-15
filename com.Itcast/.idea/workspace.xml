@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/Throwable3Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/Finally.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/ThrowsUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/ThrowsUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/throwable-use/src/exception/TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/throwable-use/src/exception/TryCatch.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +44,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/Throwable3Method.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="253">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/Finally.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,7 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PolyDef/src/Advance.java" />
         <option value="$PROJECT_DIR$/PolyDef/src/GenericClass.java" />
         <option value="$PROJECT_DIR$/PolyDef/src/GenericClassEntrance.java" />
         <option value="$PROJECT_DIR$/PolyDef/src/GenericMethod.java" />
@@ -131,6 +140,7 @@
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowsUse.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/TryCatch.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/Throwable3Method.java" />
+        <option value="$PROJECT_DIR$/throwable-use/src/exception/Finally.java" />
       </list>
     </option>
   </component>
@@ -215,10 +225,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Throwable3Method">
-    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Entrance" />
-      <module name="Landlords2" />
+  <component name="RunManager" selected="Application.Finally">
+    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.Finally" />
+      <module name="throwable-use" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -277,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Finally" />
         <item itemvalue="Application.Throwable3Method" />
         <item itemvalue="Application.TryCatch" />
         <item itemvalue="Application.ThrowsUse" />
         <item itemvalue="Application.ObjectsNonNull" />
-        <item itemvalue="Application.Entrance" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +347,7 @@
       <workItem from="1562770603809" duration="32226000" />
       <workItem from="1563076030085" duration="2321000" />
       <workItem from="1563088565515" duration="5728000" />
-      <workItem from="1563162182974" duration="969000" />
+      <workItem from="1563162182974" duration="1315000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -351,7 +367,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199037000" />
+    <option name="totallyTimeSpent" value="199383000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,12 +392,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26375178" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26375178" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27926657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33145276" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33145276" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20501636" />
@@ -437,17 +453,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PolyDef/src/GenericClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -897,8 +902,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/Throwable3Method.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        <state relative-caret-position="253">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/Finally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
