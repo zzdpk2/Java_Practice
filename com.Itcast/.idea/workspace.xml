@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/mainthread/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/mainthread/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/throwable-use/src/exception/myexception/RegisterException.java" beforeDir="false" afterPath="$PROJECT_DIR$/throwable-use/src/exception/myexception/RegisterException.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,69 +21,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/MultiTryCatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/FinallyReturn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/other/Fu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/MyException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/RegisterException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-              <folding>
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multithred/src/mainthread/MainThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="20" column="21" selection-end-line="33" />
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multithred/src/mainthread/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="184">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,9 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PolyDef/src/GenericInterfaceEntrance.java" />
-        <option value="$PROJECT_DIR$/PolyDef/src/WildCard.java" />
-        <option value="$PROJECT_DIR$/Landlords/src/Landlords.java" />
         <option value="$PROJECT_DIR$/Landlords/src/LandlordsEntrance.java" />
         <option value="$PROJECT_DIR$/ListUse/src/ListEntrance.java" />
         <option value="$PROJECT_DIR$/ListUse/src/impl/ArrayList.java" />
@@ -168,6 +123,9 @@
         <option value="$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/myexception/RegisterException.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice2.java" />
+        <option value="$PROJECT_DIR$/multithred/src/MainThread.java" />
+        <option value="$PROJECT_DIR$/multithred/src/mainthread/Person.java" />
+        <option value="$PROJECT_DIR$/multithred/src/mainthread/MainThread.java" />
       </list>
     </option>
   </component>
@@ -197,7 +155,20 @@
             <path>
               <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
               <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
-              <item name="throwable-use" type="462c0819:PsiDirectoryNode" />
+              <item name="multithred" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="multithred" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="multithred" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mainthread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +333,7 @@
       <workItem from="1563076030085" duration="2321000" />
       <workItem from="1563088565515" duration="5728000" />
       <workItem from="1563162182974" duration="6283000" />
-      <workItem from="1563203115280" duration="2526000" />
+      <workItem from="1563203115280" duration="4186000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -382,7 +353,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206877000" />
+    <option name="totallyTimeSpent" value="208537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -395,6 +366,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23257373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -467,20 +439,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ElementaryDataStructures/src/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ElementaryDataStructures/src/RedBlackTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ElementaryDataStructures/src/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -874,24 +832,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/MultiTryCatch.java">
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="222">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/FinallyReturn.java">
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/other/Fu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="184">
+          <caret line="20" column="21" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -913,17 +864,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice.java">
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/other/Fu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="20" column="21" selection-end-line="33" />
+        <state relative-caret-position="84">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/myexception/Practice2.java">
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/FinallyReturn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/throwable-use/src/exception/MultiTryCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/mainthread/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/mainthread/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -979,7 +959,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ListUse</last-edited>
+          <last-edited>multithred</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
