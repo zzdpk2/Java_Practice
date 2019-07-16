@@ -5,5 +5,8 @@ public class Entrance {
         MyThread mt = new MyThread();
         mt.setName("AAA");
         mt.start();
+
+        new MyThread("CH").start();
+
     }
 }

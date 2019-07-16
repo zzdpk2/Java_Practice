@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multithred/src/multithreadunit/principle/Principle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithred/src/threadclass/Entrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithred/src/threadclass/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/threadclass/sleep/SleepThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/mainthread/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/mainthread/MainThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/mainthread/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/mainthread/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MultiThreadUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MultiThreadUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/MyThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,12 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/setthreadname/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#110#111#0" expanded="true" />
                 <element signature="e#146#147#0" expanded="true" />
               </folding>
@@ -42,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/sleep/SleepThread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -79,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SetUse/src/SetUse.java" />
         <option value="$PROJECT_DIR$/ListUse/src/impl/VectorEntrance.java" />
         <option value="$PROJECT_DIR$/SetUse/src/HashCode.java" />
         <option value="$PROJECT_DIR$/SetUse/src/HashCode/Person.java" />
@@ -128,8 +122,9 @@
         <option value="$PROJECT_DIR$/multithred/src/multithreadunit/MultiThreadUnit.java" />
         <option value="$PROJECT_DIR$/multithred/src/threadclass/Entrance.java" />
         <option value="$PROJECT_DIR$/multithred/src/threadclass/MyThread.java" />
-        <option value="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java" />
         <option value="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/MyThread.java" />
+        <option value="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java" />
+        <option value="$PROJECT_DIR$/multithred/src/threadclass/sleep/SleepThread.java" />
       </list>
     </option>
   </component>
@@ -178,7 +173,7 @@
               <item name="multithred" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="threadclass" type="462c0819:PsiDirectoryNode" />
-              <item name="setthreadname" type="462c0819:PsiDirectoryNode" />
+              <item name="sleep" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Entrance (1)">
+  <component name="RunManager" selected="Application.SleepThread">
     <configuration name="Entrance (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threadclass.setthreadname.Entrance" />
       <module name="multithred" />
@@ -275,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Throwable3Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception.Throwable3Method" />
-      <module name="throwable-use" />
+    <configuration name="SleepThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadclass.sleep.SleepThread" />
+      <module name="multithred" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception.*" />
+          <option name="PATTERN" value="threadclass.sleep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SleepThread" />
         <item itemvalue="Application.Entrance (1)" />
         <item itemvalue="Application.Entrance" />
         <item itemvalue="Application.MultiThreadUnit" />
         <item itemvalue="Application.Finally" />
-        <item itemvalue="Application.Throwable3Method" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +341,7 @@
       <workItem from="1563088565515" duration="5728000" />
       <workItem from="1563162182974" duration="6283000" />
       <workItem from="1563203115280" duration="5196000" />
-      <workItem from="1563254635161" duration="4593000" />
+      <workItem from="1563254635161" duration="6181000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -366,7 +361,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214140000" />
+    <option name="totallyTimeSpent" value="215728000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,7 +376,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23592493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23592493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -391,12 +386,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26284876" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26284876" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27926657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34508076" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34508076" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20501636" />
@@ -452,7 +447,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SetUse/src/HashCode.java" />
     <entry file="file://$PROJECT_DIR$/SetUse/src/SetUse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -900,21 +894,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/setthreadname/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#146#147#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/threadclass/sleep/SleepThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
