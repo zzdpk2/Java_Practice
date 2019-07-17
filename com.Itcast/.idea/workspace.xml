@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multithred/src/runnable/RunnableEntrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithred/src/runnable/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/runnable/RunnableImpl2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithred/src/runnable/RunnableEntrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithred/src/runnable/RunnableEntrance.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +24,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/multithred/src/runnable/RunnableEntrance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="253">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multithred/src/runnable/RunnableImpl2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -67,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SetUse/src/HashCode/Person.java" />
         <option value="$PROJECT_DIR$/SetUse/src/HashCode/HashCodeEntrance.java" />
         <option value="$PROJECT_DIR$/SetUse/src/SetNotDup.java" />
         <option value="$PROJECT_DIR$/SetUse/src/hashset/Person.java" />
@@ -117,6 +125,7 @@
         <option value="$PROJECT_DIR$/multithred/src/threadclass/setthreadname/Entrance.java" />
         <option value="$PROJECT_DIR$/multithred/src/threadclass/sleep/SleepThread.java" />
         <option value="$PROJECT_DIR$/multithred/src/runnable/RunnableImpl.java" />
+        <option value="$PROJECT_DIR$/multithred/src/runnable/RunnableImpl2.java" />
         <option value="$PROJECT_DIR$/multithred/src/runnable/RunnableEntrance.java" />
       </list>
     </option>
@@ -185,6 +194,9 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runnable" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/InnerClassPractice/src" />
       <recent name="$PROJECT_DIR$/Privilege4Keyword/src/sub_t" />
@@ -327,7 +339,7 @@
       <workItem from="1563162182974" duration="6283000" />
       <workItem from="1563203115280" duration="5196000" />
       <workItem from="1563254635161" duration="7459000" />
-      <workItem from="1563346094127" duration="1420000" />
+      <workItem from="1563346094127" duration="2372000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -347,7 +359,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="218426000" />
+    <option name="totallyTimeSpent" value="219378000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -433,13 +445,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SetUse/src/SetNotDup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SetUse/src/hashcode/HashCodeEntrance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -903,10 +908,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/runnable/RunnableImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/multithred/src/runnable/RunnableEntrance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="253">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>

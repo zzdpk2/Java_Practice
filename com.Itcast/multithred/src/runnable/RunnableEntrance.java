@@ -5,9 +5,11 @@ public class RunnableEntrance {
 
         RunnableImpl run = new RunnableImpl();
 
-        Thread t = new Thread(run);
+//        Thread t = new Thread(run);
+        Thread t2 = new Thread(new RunnableImpl2());
 
-        t.start();
+//        t.start();
+        t2.start();
 
         for (int i = 0; i < 20; i++)
             System.out.println(Thread.currentThread().getName() + "-->" + i);
