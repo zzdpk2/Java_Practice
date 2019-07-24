@@ -1,4 +1,4 @@
-package ProcessFromAnonymousClass;
+package processfromanonymousclass;
 
 public class Entrance {
     public static void main(String[] args) {

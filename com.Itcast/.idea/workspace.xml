@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="" />
+    <list default="true" id="06fdcd94-9b7b-4fd3-856a-70c14557d5c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/multithred/src/ipc/BaoZi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/ipc/BaoZiPu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/ipc/ChiHuo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/ipc/Entrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/waitandnotify/Entrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithred/src/waitandnotifyall/Entrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithred/src/ProcessFromAnonymousClass/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/multithred/src/processfromanonymousclass/Entrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/lockandunlock/RunnableImpl4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/lockandunlock/RunnableImpl4.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +29,34 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/multithred/src/waitandnotifyall/Entrance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+              <folding>
+                <element signature="e#139#756#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#1292#1909#0" expanded="true" />
+                <element signature="e#1908#1909#0" expanded="true" />
+                <element signature="e#1928#2422#0" expanded="true" />
+                <element signature="e#2421#2422#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multithred/src/threadpool/Entrance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,13 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/map-use/src/linkedHashMap/LinkedHashMapEntrance.java" />
-        <option value="$PROJECT_DIR$/map-use/src/HashTable/HashTableEntrance.java" />
-        <option value="$PROJECT_DIR$/map-use/src/practice/CountChars.java" />
-        <option value="$PROJECT_DIR$/map-use/src/addoptimizaztion/opt1.java" />
-        <option value="$PROJECT_DIR$/debug-test/src/test.java" />
-        <option value="$PROJECT_DIR$/Landlords2/src/Entrance.java" />
-        <option value="$PROJECT_DIR$/throwable-use/src/exception/ExceptionEntrance.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ExceptionAnalyze.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ObjectsNonNull.java" />
         <option value="$PROJECT_DIR$/throwable-use/src/exception/ThrowUse.java" />
@@ -95,6 +128,13 @@
         <option value="$PROJECT_DIR$/multithred/src/threadsafety/lockandunlock/RunnableImpl3.java" />
         <option value="$PROJECT_DIR$/multithred/src/threadsafety/lockandunlock/TestEntrance.java" />
         <option value="$PROJECT_DIR$/multithred/src/threadsafety/lockandunlock/RunnableImpl4.java" />
+        <option value="$PROJECT_DIR$/multithred/src/ipc/Baozi.java" />
+        <option value="$PROJECT_DIR$/multithred/src/ipc/BaoZiPu.java" />
+        <option value="$PROJECT_DIR$/multithred/src/ipc/ChiHuo.java" />
+        <option value="$PROJECT_DIR$/multithred/src/ipc/Entrance.java" />
+        <option value="$PROJECT_DIR$/multithred/src/WaitAndNotify/Entrance.java" />
+        <option value="$PROJECT_DIR$/multithred/src/waitandnotify/Entrance.java" />
+        <option value="$PROJECT_DIR$/multithred/src/waitandnotifyall/Entrance.java" />
       </list>
     </option>
   </component>
@@ -113,6 +153,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,11 +172,17 @@
               <item name="multithred" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="com.Itcast" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.Itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="multithred" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,13 +230,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestEntrance (3)">
-    <configuration name="SleepThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadclass.sleep.SleepThread" />
+  <component name="RunManager" selected="Application.Entrance (1)">
+    <configuration name="Entrance (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="waitandnotifyall.Entrance" />
       <module name="multithred" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadclass.sleep.*" />
+          <option name="PATTERN" value="waitandnotifyall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ipc.Entrance" />
+      <module name="multithred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ipc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="waitandnotify.Entrance" />
+      <module name="multithred" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="waitandnotify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,19 +310,6 @@
       </method>
     </configuration>
     <configuration name="TestEntrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadsafety.TestEntrance" />
-      <module name="multithred" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threadsafety.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestEntrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="threadsafety.synchronize.TestEntrance" />
       <module name="multithred" />
       <extension name="coverage">
@@ -264,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Entrance (1)" />
+        <item itemvalue="Application.Entrance (1)" />
+        <item itemvalue="Application.Entrance" />
         <item itemvalue="Application.TestEntrance (3)" />
         <item itemvalue="Application.TestEntrance (2)" />
-        <item itemvalue="Application.TestEntrance (1)" />
-        <item itemvalue="Application.TestEntrance (1)" />
-        <item itemvalue="Application.TestEntrance" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +382,9 @@
       <workItem from="1563203115280" duration="5196000" />
       <workItem from="1563254635161" duration="7459000" />
       <workItem from="1563346094127" duration="9736000" />
-      <workItem from="1563523478518" duration="2276000" />
+      <workItem from="1563523478518" duration="3488000" />
+      <workItem from="1563708144485" duration="7974000" />
+      <workItem from="1563866851031" duration="6168000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1560498082251</created>
@@ -342,7 +404,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229018000" />
+    <option name="totallyTimeSpent" value="244372000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,8 +417,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19034852" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -366,12 +429,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3293348" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25844347" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25844347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27926657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.22026432" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22026432" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20501636" />
@@ -427,82 +490,6 @@
     <SUITE FILE_PATH="coverage/com_Itcast$InstanceOf.ic" NAME="InstanceOf Coverage Results" MODIFIED="1561357479454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/map-use/src/MapTraverseIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-use/src/MapUse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-use/src/person/HashMapSavesPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-use/src/person/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1025#1026#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-use/src/linkedHashMap/LinkedHashMapEntrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-use/src/hashtable/HashTableEntrance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map-use/src/MapTraverseEntry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="15" column="55" lean-forward="true" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/map-use/src/practice/CountChars.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -795,7 +782,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multithred/src/ProcessFromAnonymousClass/Entrance.java">
+    <entry file="file://$PROJECT_DIR$/multithred/src/processfromanonymousclass/Entrance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
@@ -876,6 +863,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/ipc/BaoZi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/ipc/BaoZiPu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/ipc/ChiHuo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/ipc/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/waitandnotify/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="13" lean-forward="true" selection-end-line="41" />
+          <folding>
+            <element signature="e#136#637#0" expanded="true" />
+            <element signature="e#696#1190#0" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/waitandnotifyall/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+          <folding>
+            <element signature="e#139#756#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#1292#1909#0" expanded="true" />
+            <element signature="e#1908#1909#0" expanded="true" />
+            <element signature="e#1928#2422#0" expanded="true" />
+            <element signature="e#2421#2422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multithred/src/threadpool/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
