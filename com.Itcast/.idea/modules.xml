@@ -35,6 +35,8 @@
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.iml" filepath="$PROJECT_DIR$/com.Itcast.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" filepath="$PROJECT_DIR$/com.Itcast.practice/com.Itcast.practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/debug-test/debug-test.iml" filepath="$PROJECT_DIR$/debug-test/debug-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-io/file-io.iml" filepath="$PROJECT_DIR$/file-io/file-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fp/fp.iml" filepath="$PROJECT_DIR$/fp/fp.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-use/map-use.iml" filepath="$PROJECT_DIR$/map-use/map-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithred/multithred.iml" filepath="$PROJECT_DIR$/multithred/multithred.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetUse/setuse.iml" filepath="$PROJECT_DIR$/SetUse/setuse.iml" />
