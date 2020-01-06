@@ -63,7 +63,7 @@ public class Entrance {
         for (String unit : list)    System.out.println(unit);
 
         File[] files = file.listFiles();
-        for(File unit : files)  System.out.println(unit);
+        for(File unit : files)  System.out.println(unit.getAbsolutePath());
 
     }
 
