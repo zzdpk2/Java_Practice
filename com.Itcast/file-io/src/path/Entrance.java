@@ -29,6 +29,7 @@ public class Entrance {
         System.out.println(f1.getAbsolutePath());
 
         File d1 = new File("test.txt");
+        
     }
 
 }
