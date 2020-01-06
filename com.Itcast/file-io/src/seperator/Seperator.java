@@ -1,4 +1,4 @@
-package sepperator;
+package seperator;
 
 import java.io.File;
 
