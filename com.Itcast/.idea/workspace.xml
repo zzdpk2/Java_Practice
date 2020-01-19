@@ -2,197 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf88f4fd-653d-4cbe-8854-516e8a1a0fe0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-io/src/goOverAllPaths/goOverAllPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file-io/src/txtSearch/Search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-io/src/path/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/file-io/src/path/Entrance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file-io/src/sepperator/Seperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/file-io/src/seperator/Seperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/META-INF/API.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/calendar/Calendar_r.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/calendar/Calendar_r.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/calendar/Calendar_rr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/calendar/Calendar_rr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/date/DateObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/date/DateObj.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/dateformat/DateFormat_.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/dateformat/DateFormat_.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/dateformat/DateFormate_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/dateformat/DateFormate_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/dateformat/practice/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/dateformat/practice/practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/object/Equals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/object/Equals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/object/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/object/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/object/ToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/object/ToString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/packandunpack/AutoPackAndUnpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/packandunpack/AutoPackAndUnpack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/packandunpack/PackAndUnpack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/packandunpack/PackAndUnpack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/packandunpack/PackAndUnpackString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/packandunpack/PackAndUnpackString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/stringbuilder/StringBuilder_r.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/stringbuilder/StringBuilder_r.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/stringbuilder/StringBuilder_rr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/stringbuilder/StringBuilder_rr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/system/ArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/system/ArrayCopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/API/system/SystemPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/API/system/SystemPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractPractice/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractPractice/Fu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractPractice/WakeUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractPractice/WakeUp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AbstractPractice/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AbstractPractice/Zi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyEntrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyEntrance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyInterfaceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AnonymousInnerClassPractice/MyInterfaceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayListRandom/Demo01ArrayListRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListRandom/Demo01ArrayListRandom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArrayListReturn/ArrayListReturnDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArrayListReturn/ArrayListReturnDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ArraysTools/ArraysToolsPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ArraysTools/ArraysToolsPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BonusAllocation/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BonusAllocation/Admin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BonusAllocation/BonusAllocationPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BonusAllocation/BonusAllocationPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BonusAllocation/GroupMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BonusAllocation/GroupMember.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BonusAllocation/MainRedPacket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BonusAllocation/MainRedPacket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BonusAllocation/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BonusAllocation/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FinalKeyword/Final.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FinalKeyword/Final.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FinalKeyword/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FinalKeyword/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FinalKeyword/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FinalKeyword/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FinalKeyword/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FinalKeyword/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/Body$Heart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/Body$Heart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/Body.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/ClassAsVars/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/ClassAsVars/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/ClassAsVars/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/ClassAsVars/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/ClassAsVars/Weapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/ClassAsVars/Weapon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InnerClassPracticeEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InnerClassPracticeEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Entrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Entrance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/InterfaceEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/InterfaceEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Skill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/Skill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/SkillImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/InterfaceAsVars/SkillImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer4Final$1MyInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer4Final$1MyInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer4Final.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/Outer4Final.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterMember$1Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterMember$1Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterMember.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterMember.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterMemberEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/OuterMemberEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/RedPacket/Bootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/RedPacket/Bootstrap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InnerClassPractice/red/OpenMode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InnerClassPractice/red/OpenMode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceAbstract/InterfaceAbsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfaceAbstract/InterfaceAbsImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceAbstract/InterfaceAbstractPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfaceAbstract/InterfaceAbstractPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceAbstract/InterfaceMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfaceAbstract/InterfaceMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceStatic/MyInterfaceStaticImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfaceStatic/MyInterfaceStaticImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceStatic/MyInterfaceStaticUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfaceStatic/MyInterfaceStaticUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InterfaceStatic/MyStaticInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InterfaceStatic/MyStaticInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Landlords/LandlordsEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Landlords/LandlordsEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Landlords2/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Landlords2/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListUse/ListEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListUse/ListEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListUse/impl/ArrayListEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListUse/impl/ArrayListEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ListUse/impl/LinkedListEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ListUse/impl/LinkedListEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyInterfaceConst/MyInterfaceConst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyInterfaceConst/MyInterfaceConst.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyInterfaceConst/MyInterfaceConstMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyInterfaceConst/MyInterfaceConstMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyInterfacePrivateA/MyInterfacePrivateA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyInterfacePrivateA/MyInterfacePrivateA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyInterfacePrivateA/MyInterfacePrivateAImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyInterfacePrivateA/MyInterfacePrivateAImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyInterfacePrivateB/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyInterfacePrivateB/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyInterfacePrivateB/MyInterfacePrivateB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyInterfacePrivateB/MyInterfacePrivateB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/Advance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/Advance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericClassEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericClassEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericInterfaceEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericInterfaceEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericInterfaceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericInterfaceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolyDef/GenericMethodEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolyDef/GenericMethodEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismA/Fu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismA/Fu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismA/PolyField.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismA/PolyField.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismA/PolyMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismA/PolyMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismA/Zi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismA/Zi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismB/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismB/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismB/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismB/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismB/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismB/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismB/InstanceOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismB/InstanceOf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismB/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismB/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/Keyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/Keyboard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/Laptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PolymorphismC/USB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PolymorphismC/USB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PrintObjectArrayList/PrintObjectArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PrintObjectArrayList/PrintObjectArrayListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/MyAnother.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/MyAnother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/Privilege4Keywords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/Privilege4Keywords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/sub_t/MySon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/sub_t/MySon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/sub_t/Stranger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Privilege4Keyword/sub/sub_t/Stranger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StaticChunk/StaticChunkPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StaticChunk/StaticChunkPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/collection/collection/CollectonUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/collection/collection/CollectonUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.Itcast.practice/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.Itcast.practice/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.Itcast/ArrayListPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.Itcast/ArrayListPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/com.Itcast/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/com.Itcast/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/debug-test/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/debug-test/test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/file-io/path/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/file-io/path/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/file-io/sepperator/Seperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/RunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/RunnableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/lambda/Cook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/lambda/Cook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/lambda/Entrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/lambda/Entrance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/lambda/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/lambda/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/practice1/Entrance$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/practice1/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/practice1/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fp/practice1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fp/practice1/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/META-INF/map-use.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/MapTraverseEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/MapTraverseEntry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/MapTraverseIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/MapTraverseIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/MapUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/MapUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/addoptimizaztion/opt1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/addoptimizaztion/opt1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/hashtable/HashTableEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/hashtable/HashTableEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/linkedHashMap/LinkedHashMapEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/linkedHashMap/LinkedHashMapEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/person/HashMapSavesPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/person/HashMapSavesPerson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/person/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/person/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/map-use/practice/CountChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/map-use/practice/CountChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/META-INF/multithred.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ProcessFromAnonymousClass/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ipc/BaoZi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ipc/BaoZi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ipc/BaoZiPu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ipc/BaoZiPu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ipc/ChiHuo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ipc/ChiHuo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/ipc/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/ipc/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/mainthread/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/mainthread/MainThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/mainthread/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/mainthread/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MultiThreadUnit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MultiThreadUnit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/multithreadunit/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/multithreadunit/principle/Principle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/multithreadunit/principle/Principle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/runnable/RunnableEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/runnable/RunnableEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/runnable/RunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/runnable/RunnableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/runnable/RunnableImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/runnable/RunnableImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadclass/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadclass/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadclass/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadclass/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadclass/setthreadname/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadclass/setthreadname/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadclass/setthreadname/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadclass/setthreadname/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadclass/sleep/SleepThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadclass/sleep/SleepThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadpool/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadpool/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadpool/RunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadpool/RunnableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/RunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/RunnableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/TestEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/lockandunlock/RunnableImpl4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/lockandunlock/RunnableImpl4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/lockandunlock/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/lockandunlock/TestEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedkeyword/RunnableImpl1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedkeyword/RunnableImpl1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedkeyword/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedkeyword/TestEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedmethod/RunnableImpl2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedmethod/RunnableImpl2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedmethod/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedmethod/TestEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedstatic/RunnableImpl3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedstatic/RunnableImpl3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedstatic/TestEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/threadsafety/synchronizedstatic/TestEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotify/Entrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotify/Entrance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotify/Entrance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotify/Entrance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotify/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotify/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/multithred/waitandnotifyall/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/HashCode/HashCodeEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/HashCode/HashCodeEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/HashCode/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/HashCode/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/SetNotDup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/SetNotDup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/SetUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/SetUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/VarArgs/VarArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/VarArgs/VarArgs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/hashset/Entrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/hashset/Entrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/hashset/HashSetSaveClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/hashset/HashSetSaveClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/hashset/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/hashset/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/setuse/linkedhashset/LinkedHashSetCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/setuse/linkedhashset/LinkedHashSetCode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/ExceptionAnalyze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/ExceptionAnalyze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/ExceptionEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/ExceptionEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/Finally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/Finally.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/ObjectsNonNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/ObjectsNonNull.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/ThrowUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/ThrowUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/Throwable3Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/Throwable3Method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/ThrowsUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/ThrowsUse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/throwable-use/exception/TryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/throwable-use/exception/TryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tools-collections/CollectionsEntrance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tools-collections/CollectionsEntrance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tools-collections/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tools-collections/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,16 +38,30 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Entrance">
+  <component name="RunManager" selected="Application.Search">
     <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="path.Entrance" />
       <module name="file-io" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="path.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="txtSearch.Search" />
+      <module name="file-io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="txtSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Search" />
         <item itemvalue="Application.Entrance" />
         <item itemvalue="Application.Seperator" />
       </list>
@@ -288,62 +117,100 @@
       <workItem from="1577865771874" duration="624000" />
       <workItem from="1578197315762" duration="1004000" />
       <workItem from="1578236473429" duration="3703000" />
-      <workItem from="1578301481345" duration="3998000" />
+      <workItem from="1578301481345" duration="4850000" />
+      <workItem from="1578335420428" duration="1275000" />
+      <workItem from="1578734442418" duration="600000" />
+      <workItem from="1579352369689" duration="30000" />
+      <workItem from="1579353513296" duration="119000" />
+      <workItem from="1579371120632" duration="1569000" />
+      <workItem from="1579463555456" duration="1416000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1578306767544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578306767544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577778156361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577778156361" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1578305439091">
+    <state x="393" y="8" key="CommitChangelistDialog2" timestamp="1578306767061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578305439091" />
+    <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306767061" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579464912029">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577778296326" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1578305439090">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579464912029" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579464912028">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578305439090" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798980" />
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577778296326" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1578305439090">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579464912028" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579464912028">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578305439090" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798980" />
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577778296326" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1578305439091">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579464912028" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579464912028">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578305439091" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577778296326" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578304409339">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579464912028" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578306798981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578304409339" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578304409339">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578306798981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578304409339" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578304409339">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578306798981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578304409339" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578304409339">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578306798981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578304409339" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1578306777098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306777098" />
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1577865795453">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577799533557" />
     <state x="470" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577865795453" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578370382382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578370382382" />
+    <state x="209" y="34" key="new project wizard" timestamp="1579352397101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579352397101" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1579463999094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1579463999094" />
   </component>
 </project>
