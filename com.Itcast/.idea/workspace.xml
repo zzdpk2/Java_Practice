@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf88f4fd-653d-4cbe-8854-516e8a1a0fe0" name="Default Changelist" comment="new" />
+    <list default="true" id="cf88f4fd-653d-4cbe-8854-516e8a1a0fe0" name="Default Changelist" comment="new">
+      <change afterPath="$PROJECT_DIR$/io-bytecode-stream/io-bytecode-stream.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +40,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/file-io/src/fileFilterLambda" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -152,7 +159,7 @@
       <workItem from="1579352369689" duration="30000" />
       <workItem from="1579353513296" duration="119000" />
       <workItem from="1579371120632" duration="1569000" />
-      <workItem from="1579463555456" duration="4889000" />
+      <workItem from="1579463555456" duration="7566000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1578306767544</created>
@@ -172,6 +179,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1579469043992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579469043992" />
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577778156361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -242,10 +253,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="500" y="205" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1579468610919" />
-    <state x="209" y="34" key="new project wizard" timestamp="1579352397101">
+    <state x="209" y="34" key="new project wizard" timestamp="1579469033108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579352397101" />
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579469033108" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1579463999094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
