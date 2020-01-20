@@ -35,7 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/debug-test/debug-test.iml" filepath="$PROJECT_DIR$/debug-test/debug-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/file-io/file-io.iml" filepath="$PROJECT_DIR$/file-io/file-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/fp.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/fp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/io-bytecode-stream/io-bytecode-stream.iml" filepath="$PROJECT_DIR$/io-bytecode-stream/io-bytecode-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOAndProperties/io-bytecode-stream.iml" filepath="$PROJECT_DIR$/IOAndProperties/io-bytecode-stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/map-use/map-use.iml" filepath="$PROJECT_DIR$/map-use/map-use.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithred/multithred.iml" filepath="$PROJECT_DIR$/multithred/multithred.iml" />
       <module fileurl="file://$PROJECT_DIR$/throwable-use/throwable-use.iml" filepath="$PROJECT_DIR$/throwable-use/throwable-use.iml" />

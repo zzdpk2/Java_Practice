@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf88f4fd-653d-4cbe-8854-516e8a1a0fe0" name="Default Changelist" comment="new">
-      <change afterPath="$PROJECT_DIR$/io-bytecode-stream/io-bytecode-stream.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOAndProperties/src/Demo01OutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IOAndProperties/src/Demo02OutputStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io-bytecode-stream/io-bytecode-stream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IOAndProperties/io-bytecode-stream.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +43,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/file-io/src/fileFilterLambda" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,16 +52,17 @@
       <recent name="D:\Projects\Java_Practice\com.Itcast\file-io\src\fileNameFilter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileFilterLambda">
-    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="path.Entrance" />
-      <module name="file-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="path.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Demo02OutputStream">
+    <configuration name="Demo01OutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01OutputStream" />
+      <module name="io-bytecode-stream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02OutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo02OutputStream" />
+      <module name="io-bytecode-stream" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seperator.Seperator" />
-      <module name="file-io" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seperator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02OutputStream" />
+        <item itemvalue="Application.Demo01OutputStream" />
         <item itemvalue="Application.FileFilterLambda" />
         <item itemvalue="Application.FileFilter" />
         <item itemvalue="Application.Search" />
-        <item itemvalue="Application.Entrance" />
-        <item itemvalue="Application.Seperator" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +149,7 @@
       <workItem from="1579352369689" duration="30000" />
       <workItem from="1579353513296" duration="119000" />
       <workItem from="1579371120632" duration="1569000" />
-      <workItem from="1579463555456" duration="7566000" />
+      <workItem from="1579463555456" duration="10747000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1578306767544</created>
@@ -179,10 +169,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="72" key="#Project_Structure" timestamp="1579469043992">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1579509247719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579469043992" />
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1579509247719" />
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577778156361">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -196,30 +186,30 @@
     </state>
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306767061" />
     <state x="393" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579468624019" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579468598791">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579509512578">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579468598791" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579468598790">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579509512578" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579509512578">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798980" />
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579468598790" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579468598790">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579509512578" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579509512578">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798980" />
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579468598790" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579468598791">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579509512578" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579509512578">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1578306798981" />
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1577853737567" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579468598791" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579509512578" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578306798981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
